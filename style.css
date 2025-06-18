@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(217, 207, 226, 0.777);
+}
+
+.main {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-style: italic;
+}
+
+#RectangleShape {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(173, 134, 212);
+    position: relative;
+    margin: auto;
+}
